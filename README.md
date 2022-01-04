@@ -1,7 +1,7 @@
 ### :cherry_blossom: Hi there :wave: I'm Sammy :cherry_blossom:
 Origins from France and Iran, currently living in Stockholm. Studying to become a Front End developer at Hyper Island.
 
-### :love_letter: Connect with me
+### :love_letter: Connect with me :love_letter:
 https://www.linkedin.com/in/sammydjohari/ https://www.instagram.com/sammydjohari/ djoharisammy@gmail.com 
 
 ### Hobbies and interestes
