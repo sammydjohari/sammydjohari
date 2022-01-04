@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm Sammy
+Origins from France and Iran, currently living in Stockholm. Studying to become a Front End developer at Hyper Island.
+
+### :love_letter:Connect with me
+https://www.linkedin.com/in/sammydjohari/ https://www.instagram.com/sammydjohari/ djoharisammy@gmail.com 
+
+
 
 <!--
 **sammydjohari/sammydjohari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
