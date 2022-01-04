@@ -1,10 +1,10 @@
 ### :cherry_blossom: Hi there :wave: I'm Sammy :cherry_blossom:
 Origins from France and Iran, currently living in Stockholm. Studying to become a Front End developer at Hyper Island.
 
-### :love_letter: Connect with me :love_letter:
+### :love_letter: Connect with me
 https://www.linkedin.com/in/sammydjohari/ https://www.instagram.com/sammydjohari/ djoharisammy@gmail.com 
 
-### Hobbies and interestes
+### :motor_scooter::ramen: Hobbies and interestes
 
 <!--
 **sammydjohari/sammydjohari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
