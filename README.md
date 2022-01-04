@@ -1,5 +1,5 @@
 ### :cherry_blossom: Hi there :wave: I'm Sammy :cherry_blossom:
-Origins from France and Iran, currently living in Stockholm. Studying to become a Front End developer at Hyper Island.
+24 years old. Origins from France and Iran, currently living in Stockholm. Studying to become a Front End developer at Hyper Island.
 
 ### :love_letter: Connect with me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=rounded-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sammydjohari/)](https://www.linkedin.com/in/sammydjohari/)
