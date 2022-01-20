@@ -1,3 +1,5 @@
+![LinkedIn cover - 4](https://user-images.githubusercontent.com/90833588/150364215-e2353853-6bab-459a-b016-a31ccf92519d.jpg)
+
 ### :cherry_blossom: Hi there :wave: I'm Sammy :cherry_blossom:
 24 years old. Origins from France and Iran, currently living in Stockholm. Studying to become a Front End developer at Hyper Island.
 
