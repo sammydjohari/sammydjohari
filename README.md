@@ -1,4 +1,4 @@
-![LinkedIn cover - 4](https://user-images.githubusercontent.com/90833588/150368213-8639bea9-c2f9-4be6-9998-4de8e4e6c74f.jpg)
+![LinkedIn cover - 4](https://user-images.githubusercontent.com/90833588/150368746-93fb6516-30d9-44d1-a149-6e972cad22af.jpg)
 
 
 ### :cherry_blossom: Hi there :wave: I'm Sammy :cherry_blossom:
