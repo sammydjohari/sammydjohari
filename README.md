@@ -6,7 +6,7 @@
 
 ### :love_letter: Connect with me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=rounded-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sammydjohari/)](https://www.linkedin.com/in/sammydjohari/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-405DE6?style=rounded-square&logo=instagram&logoColor=white&link=https://www.instagram.com/sammydjohari/)](https://www.instagram.com/sammydjohari/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-405DE6?style=rounded-square&logo=instagram&logoColor=white&link=https://www.instagram.com/sammycreatess/)](https://www.instagram.com/sammycreatess/)
 
 ### :motor_scooter: :ramen: Hobbies and interests
 Besides from coding, I really love designing stuff, clothes, jewelry, graphics, you name it. I have a strong passion for fashion and music. I find joy in great food, great wine, travelling, art, architecture, cars, old watches, great interiors and much more. I have a dream of travelling to Tokyo. 
