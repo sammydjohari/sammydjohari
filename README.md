@@ -1,4 +1,4 @@
-![LinkedIn cover - 4](./bluebanner.png)
+![LinkedIn cover - 4](./sbanner.png)
 
 
 ### :cherry_blossom: Hi there :wave: I'm Sammy :cherry_blossom:
